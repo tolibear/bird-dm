@@ -1,0 +1,20 @@
+# Personal workspace files - DO NOT COMMIT
+AGENTS.md
+BOOTSTRAP.md
+HEARTBEAT.md
+IDENTITY.md
+SOUL.md
+TOOLS.md
+TWITTER-VOICE.md
+USER.md
+dm-ideas.html
+memory/
+twitter-reply/
+.clawdhub/
+
+# Build output
+dist/
+node_modules/
+
+# OS
+.DS_Store
